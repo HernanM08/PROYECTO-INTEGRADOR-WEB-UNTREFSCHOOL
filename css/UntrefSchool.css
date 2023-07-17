@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Belanosima&family=Poppins&display=swap');
+
+:root {
+    --orange: #FC7300;
+    --green: #1F8A70;
+    --blue: #00425A;
+    --black: #181823;
+    --white: #EFF5F5;
+}
+
+body {
+    font-family: Poppins, Belanosima;
+}
