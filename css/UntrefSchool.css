@@ -11,4 +11,37 @@
 
 body {
     font-family: Poppins, Belanosima;
+    margin: 0;
+    background-color: var(--white);
+}
+
+header {
+    display: grid;
+    grid-template-columns: 80% auto;
+    grid-template-rows: 50% auto;
+    text-align: left;
+    align-items: center;
+    margin: 2%;
+}
+
+header .titulo {
+    grid-column: 1/2;
+    grid-row: 1/2;
+    margin: 0;    
+    font-size: 1.5rem;
+    padding-top: 10%;
+}
+
+header .descripcion {
+    grid-column: 1/2;
+    grid-row: 2/3;
+    margin: 0;
+    font-size: 0.7rem;
+    padding-bottom: 10%;
+}
+
+header .menu {
+    grid-column: 2/3;
+    grid-row: 1/3;
+    text-align: center;
 }
