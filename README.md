@@ -1,2 +1,0 @@
-# PROYECTO-INTEGRADOR-WEB-UNTREFSCHOOL
-Proyecto Integrador Tramo 1
